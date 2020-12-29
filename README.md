@@ -14,5 +14,5 @@ c++
 ### To Run In Linux/Unix Command Line:
 
 * Open a terminal Shell
-* run `run g++ -o main main.cpp` (the name of the executable follows `-o` it can be anything)
+* run `g++ -o main main.cpp` (the name of the executable follows `-o` it can be anything)
 * run `./main`
