@@ -8,8 +8,9 @@ c++
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/compiler/`
-* `run the file main.cpp in any python IDE`
+* Open a terminal shell and navigate to the desired directory 
+* `git clone https://github.com/gamblinflanagan/compiler.git`
+* `run the file main.cpp in any c++ IDE`
 
 ### To Run In Linux/Unix Command Line:
 
