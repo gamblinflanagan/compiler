@@ -1,5 +1,5 @@
 # Compiler
-## a basic c++ compiler
+## a classic c++ compiler
 
 ### Languages Used:
 
